@@ -1,0 +1,100 @@
+transaction_id,date,description,counterparty,amount,method
+T1051,2026-01-01,Rent,Landlord,"-$9,000.00",ACH
+T1031,2026-01-03,Food inventory purchase - Sysco,Sysco,"-$4,151.25",ACH/card
+T1052,2026-01-04,POS/software subscription,Toast,-$875.00,ACH/card
+T1053,2026-01-05,Insurance premium,Next Insurance,"-$1,250.00",ACH
+T1032,2026-01-06,Food inventory purchase - US Foods,US Foods,"-$4,814.71",ACH/card
+T1041,2026-01-07,Beverage inventory purchase - Southern Glazer's,Southern Glazer's,"-$1,779.21",ACH/card
+T1054,2026-01-07,Accounting/bookkeeping,LedgerPro Bookkeeping,-$650.00,ACH
+T1001,2026-01-08,POS batch deposit - food sales week 1,Toast POS,"$17,513.84",Bank deposit
+T1002,2026-01-08,POS batch deposit - beverage sales week 1,Toast POS,"$5,163.62",Bank deposit
+T1003,2026-01-08,Catering invoice payment week 1,Corporate Catering Client,$750.84,ACH deposit
+T1044,2026-01-08,To-go packaging and disposables,Restaurant Depot,"-$1,043.52",Card
+T1004,2026-01-09,Delivery marketplace payout week 1,DoorDash/Uber Eats,"$4,671.96",ACH deposit
+T1005,2026-01-09,Refunds and discounts week 1,Toast POS,-$571.30,POS adjustment
+T1055,2026-01-09,Internet and phone,Comcast Business,-$420.00,Card
+T1006,2026-01-10,Delivery platform commission week 1,DoorDash/Uber Eats,"-$1,217.52",Marketplace deduction
+T1033,2026-01-10,Food inventory purchase - Local Produce Co.,Local Produce Co.,"-$2,376.81",ACH/card
+T1061,2026-01-10,Equipment purchase - new oven,Restaurant Equipment World,"-$7,800.00",ACH
+T1056,2026-01-12,Utilities - electric/gas/water,City Utilities,"-$2,031.72",ACH
+T1034,2026-01-13,Food inventory purchase - Butcher & Sons,Butcher & Sons,"-$4,422.96",ACH/card
+T1007,2026-01-15,POS batch deposit - food sales week 2,Toast POS,"$18,283.62",Bank deposit
+T1008,2026-01-15,POS batch deposit - beverage sales week 2,Toast POS,"$5,250.24",Bank deposit
+T1009,2026-01-15,Catering invoice payment week 2,Corporate Catering Client,"$1,987.27",ACH deposit
+T1042,2026-01-15,Beverage inventory purchase - Craft Beer Distributor,Craft Beer Distributor,"-$1,858.49",ACH/card
+T1046,2026-01-15,Payroll - hourly kitchen and FOH wages,Gusto Payroll,"-$16,360.64",ACH
+T1010,2026-01-16,Delivery marketplace payout week 2,DoorDash/Uber Eats,"$4,435.61",ACH deposit
+T1011,2026-01-16,Refunds and discounts week 2,Toast POS,-$400.93,POS adjustment
+T1035,2026-01-16,Food inventory purchase - Bakery Supply,Bakery Supply,"-$3,735.86",ACH/card
+T1047,2026-01-16,Payroll taxes and benefits,Gusto Payroll,"-$1,892.64",ACH
+T1057,2026-01-16,Cleaning and linen service,LinenPro,"-$1,193.59",ACH
+T1012,2026-01-17,Delivery platform commission week 2,DoorDash/Uber Eats,"-$1,110.33",Marketplace deduction
+T1036,2026-01-18,Food inventory purchase - Sysco,Sysco,"-$2,286.92",ACH/card
+T1058,2026-01-18,Marketing - local ads,Meta/Google/Yelp,"-$2,121.28",Card
+T1062,2026-01-20,Sales tax remittance,Florida Dept. of Revenue,"-$6,150.00",ACH
+T1037,2026-01-21,Food inventory purchase - US Foods,US Foods,"-$4,269.38",ACH/card
+T1013,2026-01-22,POS batch deposit - food sales week 3,Toast POS,"$15,647.22",Bank deposit
+T1014,2026-01-22,POS batch deposit - beverage sales week 3,Toast POS,"$5,406.76",Bank deposit
+T1015,2026-01-22,Catering invoice payment week 3,Corporate Catering Client,$909.40,ACH deposit
+T1045,2026-01-22,To-go packaging and disposables,Restaurant Depot,-$698.27,Card
+T1059,2026-01-22,Repairs and maintenance,Kitchen Repair Co.,"-$1,256.72",Card
+T1016,2026-01-23,Delivery marketplace payout week 3,DoorDash/Uber Eats,"$5,065.12",ACH deposit
+T1017,2026-01-23,Refunds and discounts week 3,Toast POS,-$401.52,POS adjustment
+T1043,2026-01-23,Beverage inventory purchase - Beverage Depot,Beverage Depot,"-$2,691.48",ACH/card
+T1018,2026-01-24,Delivery platform commission week 3,DoorDash/Uber Eats,"-$1,293.41",Marketplace deduction
+T1038,2026-01-24,Food inventory purchase - Local Produce Co.,Local Produce Co.,"-$4,493.60",ACH/card
+T1060,2026-01-25,Office/admin supplies,Staples/Amazon,-$335.80,Card
+T1039,2026-01-27,Food inventory purchase - Butcher & Sons,Butcher & Sons,"-$3,198.22",ACH/card
+T1048,2026-01-28,Payroll - hourly kitchen and FOH wages,Gusto Payroll,"-$15,260.37",ACH
+T1050,2026-01-28,Manager salary payroll,Gusto Payroll,"-$6,500.00",ACH
+T1019,2026-01-29,POS batch deposit - food sales week 4,Toast POS,"$18,031.60",Bank deposit
+T1020,2026-01-29,POS batch deposit - beverage sales week 4,Toast POS,"$5,137.73",Bank deposit
+T1021,2026-01-29,Catering invoice payment week 4,Corporate Catering Client,"$2,384.22",ACH deposit
+T1049,2026-01-29,Payroll taxes and benefits,Gusto Payroll,"-$1,743.42",ACH
+T1022,2026-01-30,Delivery marketplace payout week 4,DoorDash/Uber Eats,"$5,252.33",ACH deposit
+T1023,2026-01-30,Refunds and discounts week 4,Toast POS,-$440.94,POS adjustment
+T1024,2026-01-31,Delivery platform commission week 4,DoorDash/Uber Eats,"-$1,204.51",Marketplace deduction
+T1025,2026-01-31,POS batch deposit - food sales week 5,Toast POS,"$7,920.72",Bank deposit
+T1026,2026-01-31,POS batch deposit - beverage sales week 5,Toast POS,"$2,399.76",Bank deposit
+T1027,2026-01-31,Catering invoice payment week 5,Corporate Catering Client,$673.73,ACH deposit
+T1028,2026-01-31,Delivery marketplace payout week 5,DoorDash/Uber Eats,"$1,936.02",ACH deposit
+T1029,2026-01-31,Refunds and discounts week 5,Toast POS,-$607.83,POS adjustment
+T1030,2026-01-31,Delivery platform commission week 5,DoorDash/Uber Eats,-$496.05,Marketplace deduction
+T1040,2026-01-31,Food inventory purchase - Bakery Supply,Bakery Supply,"-$3,894.88",ACH/card
+T1107,2026-02-01,Rent,Landlord,"-$9,000.00",ACH
+T1087,2026-02-03,Food inventory purchase - Sysco,Sysco,"-$4,797.20",ACH/card
+T1108,2026-02-04,POS/software subscription,Toast,-$875.00,ACH/card
+T1109,2026-02-05,Insurance premium,Next Insurance,"-$1,250.00",ACH
+T1088,2026-02-06,Food inventory purchase - US Foods,US Foods,"-$4,119.59",ACH/card
+T1097,2026-02-06,Beverage inventory purchase - Southern Glazer's,Southern Glazer's,"-$3,316.87",ACH/card
+T1110,2026-02-07,Accounting/bookkeeping,LedgerPro Bookkeeping,-$650.00,ACH
+T1063,2026-02-08,POS batch deposit - food sales week 1,Toast POS,"$19,049.34",Bank deposit
+T1064,2026-02-08,POS batch deposit - beverage sales week 1,Toast POS,"$5,539.24",Bank deposit
+T1065,2026-02-08,Catering invoice payment week 1,Corporate Catering Client,"$1,044.81",ACH deposit
+T1100,2026-02-08,To-go packaging and disposables,Restaurant Depot,"-$1,004.61",Card
+T1066,2026-02-09,Delivery marketplace payout week 1,DoorDash/Uber Eats,"$5,726.56",ACH deposit
+T1067,2026-02-09,Refunds and discounts week 1,Toast POS,-$490.41,POS adjustment
+T1111,2026-02-09,Internet and phone,Comcast Business,-$420.00,Card
+T1068,2026-02-10,Delivery platform commission week 1,DoorDash/Uber Eats,"-$1,282.59",Marketplace deduction
+T1089,2026-02-10,Food inventory purchase - Local Produce Co.,Local Produce Co.,"-$4,029.59",ACH/card
+T1117,2026-02-11,Gift card sales deposit,Toast POS,"$2,400.00",Bank deposit
+T1112,2026-02-12,Utilities - electric/gas/water,City Utilities,"-$2,086.30",ACH
+T1090,2026-02-13,Food inventory purchase - Butcher & Sons,Butcher & Sons,"-$3,406.70",ACH/card
+T1069,2026-02-15,POS batch deposit - food sales week 2,Toast POS,"$19,518.56",Bank deposit
+T1070,2026-02-15,POS batch deposit - beverage sales week 2,Toast POS,"$6,299.96",Bank deposit
+T1071,2026-02-15,Catering invoice payment week 2,Corporate Catering Client,"$2,439.71",ACH deposit
+T1102,2026-02-15,Payroll - hourly kitchen and FOH wages,Gusto Payroll,"-$17,375.90",ACH
+T1072,2026-02-16,Delivery marketplace payout week 2,DoorDash/Uber Eats,"$4,956.41",ACH deposit
+T1073,2026-02-16,Refunds and discounts week 2,Toast POS,-$524.73,POS adjustment
+T1091,2026-02-16,Food inventory purchase - Bakery Supply,Bakery Supply,"-$3,834.43",ACH/card
+T1098,2026-02-16,Beverage inventory purchase - Craft Beer Distributor,Craft Beer Distributor,"-$2,074.10",ACH/card
+T1103,2026-02-16,Payroll taxes and benefits,Gusto Payroll,"-$2,116.96",ACH
+T1113,2026-02-16,Cleaning and linen service,LinenPro,"-$1,025.54",ACH
+T1074,2026-02-17,Delivery platform commission week 2,DoorDash/Uber Eats,"-$1,353.50",Marketplace deduction
+T1092,2026-02-18,Food inventory purchase - Sysco,Sysco,"-$4,272.82",ACH/card
+T1114,2026-02-18,Marketing - local ads,Meta/Google/Yelp,"-$2,383.96",Card
+T1093,2026-02-21,Food inventory purchase - US Foods,US Foods,"-$4,276.96",ACH/card
+T1118,2026-02-21,Loan principal repayment,Bank Loan,"-$3,500.00",ACH
+T1075,2026-02-22,POS batch deposit - food sales week 3,Toast POS,"$18,642.84",Bank deposit
+T1076,2026-02-22,POS batch deposit - beverage sales week 3,Toast POS,"$5,668.59",Bank deposit
+T1077,2026-02-22,Catering invoice payment week 3,Corporate Catering Client,$737.83,ACH deposit
